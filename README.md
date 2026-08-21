@@ -1,43 +1,49 @@
 <div align="center">
 
-  <!-- Cyber Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0f0f1a,70:111827,100:0a0a0f&height=200&section=header&text=FATHI%20IFYA&fontSize=48&fontColor=00f0ff&animation=fadeIn&fontAlignY=32&desc=CYBER%20%2F%20TECH%20%2F%20DEVELOPER&descAlignY=52&descSize=16&descColor=a855f7" width="100%"/>
+  <!-- Header Affastudio Style -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:1e293b,100:020617&height=220&section=header&text=FATHI%20IFYA&fontSize=52&fontColor=60a5fa&animation=fadeIn&fontAlignY=35&desc=Developer%20%40%20Affastudio&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=System.+Initializing...;Full+Stack+Developer;Building+in+the+digital+void;Code.+Create.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+digital+experiences;Clean+code.+Clear+systems.;Developer+%40+Affastudio;Always+learning%2C+always+shipping" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Profile+Views&color=00f0ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/fathiifyacam-developer?style=for-the-badge&logo=github&logoColor=white&color=a855f7" />
+  <img src="https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Profile+Views&color=3b82f6&style=flat-square" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/fathiifyacam-developer?style=flat-square&logo=github&logoColor=white&color=3b82f6" />
+  &nbsp;
+  <a href="https://affastudio.biz.id">
+    <img src="https://img.shields.io/badge/Affastudio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
 
 </div>
 
+<br>
+
 ---
 
-### `> whoami`
+### About
 
-```bash
-┌─[fathi@cyber]─[~]
-└──╼ $ cat about.txt
-
+```
 Name      : Fathi Ifya ja'far
 Role      : Developer @ Affastudio
-Location  : Digital Realm
-Vibe      : Cyber • Tech • Aesthetic
-Focus     : Building clean systems & digital experiences
-Status    : Online ⚡
+Focus     : Website • App • Digital Products
+Vibe      : Clean • Modern • Aesthetic
+Status    : Online
 ```
 
-- Currently crafting digital products at **[Affastudio](https://affastudio.biz.id)**
-- Obsessed with clean code, dark UI, and neon aesthetics
-- Always learning, always shipping
+Building digital solutions for businesses, communities, and institutions.  
+Currently crafting products at **[Affastudio](https://affastudio.biz.id)** — from websites and web apps to design and digital services.
+
+- Clean systems over complexity
+- Clear communication in every project
+- Always improving, always shipping
 
 ---
 
-### `> tech --stack`
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,vscode,figma&theme=dark" />
@@ -45,20 +51,20 @@ Status    : Online ⚡
 
 ---
 
-### `> stats --live`
+### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=00f0ff&icon_color=a855f7&text_color=e2e8f0&ring_color=00f0ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0f&title_color=a855f7&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&ring_color=3b82f6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=transparent&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathiifyacam-developer&theme=radical&hide_border=true&background=0a0a0f&ring=00f0ff&fire=a855f7&currStreakNum=00f0ff&sideNums=a855f7&currStreakLabel=00f0ff&sideLabels=a855f7&dates=94a3b8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathiifyacam-developer&theme=transparent&hide_border=true&background=020617&ring=3b82f6&fire=60a5fa&currStreakNum=60a5fa&sideNums=94a3b8&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b" />
 </p>
 
 ---
 
-### `> contribution --snake`
+### Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake-dark.svg">
@@ -70,8 +76,11 @@ Status    : Online ⚡
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:111827,100:0a0a0f&height=100&section=footer&text=System.+Shutdown.&fontSize=18&fontColor=00f0ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=110&section=footer&text=Affastudio&fontSize=20&fontColor=60a5fa&animation=fadeIn" width="100%"/>
 
-  **[Website](https://affastudio.biz.id)** • **Built in the void**
+  <br>
+
+  **[affastudio.biz.id](https://affastudio.biz.id)**  
+  Studio digital · sejak 2025
 
 </div>
