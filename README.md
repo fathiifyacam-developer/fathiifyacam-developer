@@ -1,49 +1,38 @@
 <div align="center">
-
-  <!-- Header Affastudio Style -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:1e293b,100:020617&height=220&section=header&text=FATHI%20IFYA&fontSize=52&fontColor=60a5fa&animation=fadeIn&fontAlignY=35&desc=Developer%20%40%20Affastudio&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
-
-  <!-- Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Building+digital+experiences;Clean+code.+Clear+systems.;Developer+%40+Affastudio;Always+learning%2C+always+shipping" alt="Typing SVG" />
-  </a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Profile+Views&color=3b82f6&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/fathiifyacam-developer?style=flat-square&logo=github&logoColor=white&color=3b82f6" />
-  &nbsp;
-  <a href="https://affastudio.biz.id">
-    <img src="https://img.shields.io/badge/Affastudio-Visit-3b82f6?style=flat-square&logo=vercel&logoColor=white" />
-  </a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,50:0f172a,100:0b1120&height=160&section=header&text=Fathi%20Ifya&fontSize=42&fontColor=93c5fd&animation=fadeIn&fontAlignY=40&desc=Developer%20%40%20Affastudio&descAlignY=60&descSize=16&descColor=64748b" width="100%"/>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+digital+products;Website+%E2%80%A2+App+%E2%80%A2+Design;Clean+systems%2C+clear+results" alt="typing" />
+</p>
+
+<p align="center">
+  <a href="https://affastudio.biz.id"><img src="https://img.shields.io/badge/Affastudio-Website-3b82f6?style=flat&logo=google-chrome&logoColor=white"/></a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Views&color=3b82f6&style=flat"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/fathiifyacam-developer?label=Followers&style=flat&color=3b82f6"/>
+</p>
 
 <br>
 
 ---
 
-### About
+### 👨‍💻 About Me
 
-```
-Name      : Fathi Ifya ja'far
-Role      : Developer @ Affastudio
-Focus     : Website • App • Digital Products
-Vibe      : Clean • Modern • Aesthetic
-Status    : Online
-```
+Halo, saya **Fathi Ifya ja'far** — developer di balik **[Affastudio](https://affastudio.biz.id)**.
 
-Building digital solutions for businesses, communities, and institutions.  
-Currently crafting products at **[Affastudio](https://affastudio.biz.id)** — from websites and web apps to design and digital services.
+Saya mengerjakan website, aplikasi web, desain, dan produk digital. Fokus utama saya adalah membuat sistem yang bersih, mudah dipahami, dan benar-benar berguna untuk klien.
 
-- Clean systems over complexity
-- Clear communication in every project
-- Always improving, always shipping
+- 🔭 Sedang mengembangkan produk digital di Affastudio  
+- 🌱 Terus belajar & meningkatkan kualitas pengerjaan  
+- 💬 Bisa diskusi soal website, aplikasi, atau desain
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,vscode,figma&theme=dark" />
@@ -51,36 +40,34 @@ Currently crafting products at **[Affastudio](https://affastudio.biz.id)** — f
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&theme=transparent&hide_border=true&bg_color=020617&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1&ring_color=3b82f6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=transparent&hide_border=true&bg_color=020617&title_color=60a5fa&text_color=cbd5e1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=60a5fa&icon_color=3b82f6&text_color=cbd5e1" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=60a5fa&text_color=cbd5e1" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fathiifyacam-developer&theme=transparent&hide_border=true&background=020617&ring=3b82f6&fire=60a5fa&currStreakNum=60a5fa&sideNums=94a3b8&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b" />
+  <img src="https://streak-stats.demolab.com?user=fathiifyacam-developer&theme=tokyonight&hide_border=true&background=0b1120&ring=3b82f6&fire=60a5fa&currStreakNum=60a5fa&sideNums=94a3b8&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=64748b"/>
 </p>
 
 ---
 
-### Contribution
+### 🟩 Contribution
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/fathiifyacam-developer/fathiifyacam-developer/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
 
 ---
 
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:020617&height=110&section=footer&text=Affastudio&fontSize=20&fontColor=60a5fa&animation=fadeIn" width="100%"/>
-
-  <br>
-
-  **[affastudio.biz.id](https://affastudio.biz.id)**  
-  Studio digital · sejak 2025
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1120,100:0f172a&height=90&section=footer&text=affastudio.biz.id&fontSize=16&fontColor=60a5fa&animation=fadeIn" width="100%"/>
+  <br><br>
+  <sub>Studio digital · sejak 2025</sub>
 </div>
