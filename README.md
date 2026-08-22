@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16,18&section=header&text=&fontSize=0" />
 
 ### Fathi Ifya Ja'far
 
@@ -10,7 +10,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Affastudio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://affastudio.biz.id)
+[![Affastudio](https://img.shields.io/badge/Affastudio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://affastudio.biz.id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285129802703)
 [![Views](https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Views&color=2563EB&style=flat-square)](https://github.com/fathiifyacam-developer)
 
@@ -24,8 +24,6 @@ Saya belajar mandiri lewat proyek nyata sambil bangun **[Affastudio](https://aff
 
 Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran berguna.
 
-<br>
-
 **Yang lagi dikerjain**
 - Mengembangkan Affastudio
 - Belajar front-end lewat project
@@ -37,13 +35,10 @@ Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran be
 
 <br>
 
-<div align="center">
-
-**Tech**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&perline=7" />
-
-</div>
+<p align="center">
+  <b>Tech</b><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&perline=7" />
+</p>
 
 <br>
 
@@ -51,14 +46,12 @@ Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran be
 
 <br>
 
-<div align="center">
-
-**Stats**
-
-<img src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=334155" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155" height="150" />
-
-</div>
+<p align="center">
+  <b>Stats</b><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&hide_border=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=334155&bg_color=FFFFFF" width="400" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&hide_border=true&theme=default&title_color=2563EB&text_color=334155&bg_color=FFFFFF" width="300" />
+</p>
 
 <br>
 
@@ -66,16 +59,14 @@ Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran be
 
 <br>
 
-<div align="center">
+<p align="center">
+  <b>Proyek</b>
+</p>
 
-**Proyek**
-
-[**Affastudio**](https://affastudio.biz.id) — layanan digital (website, bot, hosting, desain)  
-**Movic Rent Car** — website profil rental mobil  
-**M. Group Expo** — landing page event  
-**Kirra Makeup** — portofolio jasa makeup
-
-</div>
+- **[Affastudio](https://affastudio.biz.id)** — layanan digital (website, bot, hosting, desain)
+- **Movic Rent Car** — website profil rental mobil
+- **M. Group Expo** — landing page event
+- **Kirra Makeup** — portofolio jasa makeup
 
 <br>
 
@@ -83,10 +74,12 @@ Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran be
 
 <br>
 
-<div align="center">
+<p align="center">
+  <a href="https://affastudio.biz.id">affastudio.biz.id</a> ·
+  <a href="https://wa.me/6285129802703">WhatsApp</a> ·
+  <a href="https://www.linkedin.com/in/fathi-ifya-ja-far-0830a9416">LinkedIn</a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&customColorList=0,2,2,5,30&section=footer&text=&fontSize=0" />
-
-[affastudio.biz.id](https://affastudio.biz.id) · [WhatsApp](https://wa.me/6285129802703) · [LinkedIn](https://www.linkedin.com/in/fathi-ifya-ja-far-0830a9416)
-
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=12,14,16,18&section=footer&text=&fontSize=0" />
+</p>
