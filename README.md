@@ -1,85 +1,78 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,14,16,18&section=header&text=&fontSize=0" />
-
-### Fathi Ifya Ja'far
-
-**Web Developer · Digital Creator · Photographer**
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=4000&pause=800&color=2563EB&center=true&vCenter=true&width=480&lines=Membangun+Affastudio;Belajar+dari+proyek+nyata;Website+%26+solusi+digital" alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,100:3B82F6&section=header&text=Fathi%20Ifya&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer%20%7C%20Digital%20Creator&descAlignY=62&descSize=14&descColor=dbeafe" width="100%"/>
 
 <br>
 
-[![Affastudio](https://img.shields.io/badge/Affastudio-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://affastudio.biz.id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6285129802703)
-[![Views](https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Views&color=2563EB&style=flat-square)](https://github.com/fathiifyacam-developer)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=19&duration=3500&pause=900&color=2563EB&center=true&vCenter=true&width=500&lines=Halo%2C+saya+Fathi;Membangun+Affastudio;Website+%26+solusi+digital;Belajar+dari+proyek+nyata" alt="Typing SVG"/>
+
+<br>
+
+<a href="https://affastudio.biz.id">
+  <img src="https://img.shields.io/badge/🌐_Affastudio-2563EB?style=for-the-badge" alt="Affastudio"/>
+</a>
+<a href="https://wa.me/6285129802703">
+  <img src="https://img.shields.io/badge/💬_WhatsApp-25D366?style=for-the-badge" alt="WhatsApp"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=fathiifyacam-developer&label=Views&color=2563EB&style=for-the-badge" alt="Views"/>
 
 </div>
 
-<br>
+---
 
-Halo! Saya Fathi, fresh graduate yang suka ngulik web, teknologi, sama fotografi.
+### 👋 Tentang Saya
 
-Saya belajar mandiri lewat proyek nyata sambil bangun **[Affastudio](https://affastudio.biz.id)** — tempat saya bikin website, bot, desain, dan layanan digital lainnya.
+Halo! Saya **Fathi Ifya Ja'far** — fresh graduate yang suka ngulik web, teknologi, dan fotografi.
 
-Fokus saya sederhana: bikin sesuatu yang bersih, gampang dipakai, dan beneran berguna.
+Saya belajar mandiri lewat proyek nyata sambil membangun **[Affastudio](https://affastudio.biz.id)**. Fokus saya sederhana: bikin website & solusi digital yang bersih, mudah dipakai, dan benar-benar berguna.
 
-**Yang lagi dikerjain**
-- Mengembangkan Affastudio
-- Belajar front-end lewat project
-- Fotografi & multimedia
-
-<br>
+- 🔭 Sedang mengembangkan Affastudio  
+- 🌱 Belajar front-end lewat project  
+- 📷 Suka fotografi & multimedia  
+- 💬 Bisa diskusi soal website atau desain
 
 ---
 
-<br>
+### 🛠️ Tech Stack
 
 <p align="center">
-  <b>Tech</b><br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
 </p>
-
-<br>
 
 ---
 
-<br>
+### 📊 GitHub Stats
 
 <p align="center">
-  <b>Stats</b><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&hide_border=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=334155&bg_color=FFFFFF" width="400" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&hide_border=true&theme=default&title_color=2563EB&text_color=334155&bg_color=FFFFFF" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fathiifyacam-developer&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=1e293b&bg_color=f8fafc" height="160" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiifyacam-developer&layout=compact&theme=default&hide_border=true&title_color=2563EB&text_color=1e293b&bg_color=f8fafc" height="160" alt="Languages"/>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fathiifyacam-developer&theme=default&hide_border=true&background=f8fafc&ring=2563EB&fire=3B82F6&currStreakNum=2563EB&sideNums=64748b&currStreakLabel=2563EB&sideLabels=64748b&dates=94a3b8" alt="Streak"/>
+</p>
 
 ---
 
-<br>
+### 💼 Beberapa Proyek
 
-<p align="center">
-  <b>Proyek</b>
-</p>
-
-- **[Affastudio](https://affastudio.biz.id)** — layanan digital (website, bot, hosting, desain)
-- **Movic Rent Car** — website profil rental mobil
-- **M. Group Expo** — landing page event
-- **Kirra Makeup** — portofolio jasa makeup
-
-<br>
+| | |
+|:---|:---|
+| **[Affastudio](https://affastudio.biz.id)** | Layanan digital — website, bot, hosting, desain |
+| **Movic Rent Car** | Website profil rental mobil |
+| **M. Group Expo** | Landing page event |
+| **Kirra Makeup** | Portofolio jasa makeup artist |
 
 ---
 
+<div align="center">
+
 <br>
 
-<p align="center">
-  <a href="https://affastudio.biz.id">affastudio.biz.id</a> ·
-  <a href="https://wa.me/6285129802703">WhatsApp</a> ·
-  <a href="https://www.linkedin.com/in/fathi-ifya-ja-far-0830a9416">LinkedIn</a>
-</p>
+**Terima kasih sudah mampir!**
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&color=gradient&customColorList=12,14,16,18&section=footer&text=&fontSize=0" />
-</p>
+[Website](https://affastudio.biz.id) · [WhatsApp](https://wa.me/6285129802703) · [LinkedIn](https://www.linkedin.com/in/fathi-ifya-ja-far-0830a9416)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:2563EB,100:3B82F6&section=footer&text=&fontSize=0" width="100%"/>
+
+</div>
